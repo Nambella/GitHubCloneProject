@@ -1,2 +1,2 @@
-this is the discription of my repo
+this is the descriptive of my repo
 modification in main branch
